@@ -5,5 +5,7 @@ GEOG370 Homework 2
 
 Parking lots vector found on the internet here: <a href="https://gisdata-uncadmin.opendata.arcgis.com/datasets/617d9e97c02c4198a78e1dbd65f4d605_7/explore?location=35.880974%2C-79.117200%2C11.91">link https://gisdata-uncadmin.opendata.arcgis.com/datasets/617d9e97c02c4198a78e1dbd65f4d605_7/explore?location=35.880974%2C-79.117200%2C11.91</a>
 
-Folder with GeoJSON files: <a href="[url](https://github.com/mscott2000/geog370hw2/tree/main/data)">link [text](https://github.com/mscott2000/geog370hw2/tree/main/data)</a>
+Folder with GeoJSON files: <a href="https://github.com/mscott2000/geog370hw2/tree/main/data
+">link https://github.com/mscott2000/geog370hw2/tree/main/data
+</a>
 
