@@ -9,7 +9,5 @@ Folder with GeoJSON files: <a href="https://github.com/mscott2000/geog370hw2/tre
 
 
 
-<a href="https://github.com/mscott2000/geog370hw2/tree/main/data
-"> https://github.com/mscott2000/geog370hw2/tree/main/data
-</a>
+
 
